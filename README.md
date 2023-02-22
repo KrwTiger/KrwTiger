@@ -8,7 +8,8 @@ IT - Software Developer. Schaffner Lam Co.,Ltd. 💻
 
 *   🌍  I'm based in Chiang Mail, Thailand
 *   ✉️  You can contact me at [korawit.business@hotmail.com](mailto:korawit.business@hotmail.com)
-*   🧠  I'm learning ASP.NET Core### Skills 
+*   🧠  I'm learning ASP.NET Core
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
