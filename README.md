@@ -1,7 +1,7 @@
 Hi there👋 
 =========================
 <div>
-  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="HTML tutorial" style="width:720px;height:480px;">
+  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="HTML tutorial" style="width:1080px;height:480px;">
 </div>
 <p> My name is Korawit. </br>
 Nickname Tiger 🐯 </p>
