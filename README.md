@@ -40,5 +40,6 @@ IT - Software Developer. Schaffner Lam Co.,Ltd. 💻
 ### Badges
 <b>My GitHub Stats</b>
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" alt="Top Languages" /></a>
 </p>
