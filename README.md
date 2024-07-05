@@ -1,14 +1,16 @@
-Hi 👋 My name is Korawit.
+Hi there👋 
 =========================
+<div>
+  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="HTML tutorial" style="width:720px;height:480px;">
+</div>
+<p> My name is Korawit. </br>
+Nickname Tiger 🐯 </p>
+Working : IT - Software Developer. Schaffner Lam Co.,Ltd. 💻
 
-Nickname Tiger 🐯
------------------
-
-IT - Software Developer. Schaffner Lam Co.,Ltd. 💻
 
 *   🌍  I'm based in Chiang Mail, Thailand
 *   ✉️  You can contact me at [korawit.business@hotmail.com](mailto:korawit.business@hotmail.com)
-*   🧠  I'm learning ASP.NET Core
+*   🧠  Now I'm using languages ASP.NET Core
 
 ### Skills 
 <p align="left">
