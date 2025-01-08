@@ -7,8 +7,8 @@ Hi there👋
 Nickname Tiger 🐯 </p> 
 
 Working : <br />
+
   - IT - DevOps Engineer. Schaffner Lam Co.,Ltd. starter 2025 💻
-<br />
   - IT - Software Developer. Schaffner Lam Co.,Ltd. 2023-2025 💻
   <br />
 -------------------------------------------------------------------------
