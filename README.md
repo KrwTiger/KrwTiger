@@ -5,7 +5,9 @@ Hi there👋
 </div>
 <p> My name is Korawit. </br>
 Nickname Tiger 🐯 </p>
-Working : IT - Software Developer. Schaffner Lam Co.,Ltd. 💻
+Working : 
+IT - DevOps Engineer. Schaffner Lam Co.,Ltd. starter 2025 💻
+IT - Software Developer. Schaffner Lam Co.,Ltd. 2023-2025 💻
 
 
 *   🌍  I'm based in Chiang Mail, Thailand
