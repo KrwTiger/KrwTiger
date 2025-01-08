@@ -4,11 +4,13 @@ Hi there👋
   <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="HTML tutorial" style="width:1080px;height:480px;">
 </div>
 <p> My name is Korawit. </br>
-Nickname Tiger 🐯 </p>
+Nickname Tiger 🐯 </p> 
+
 Working : <br />
   - IT - DevOps Engineer. Schaffner Lam Co.,Ltd. starter 2025 💻
 <br />
   - IT - Software Developer. Schaffner Lam Co.,Ltd. 2023-2025 💻
+  <br />
 -------------------------------------------------------------------------
 
 *   🌍  I'm based in Chiang Mail, Thailand
