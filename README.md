@@ -5,12 +5,11 @@ Hi there👋
 </div>
 <p> My name is Korawit. </br>
 Nickname Tiger 🐯 </p>
-*   Working : <br />
+Working : <br />
   - IT - DevOps Engineer. Schaffner Lam Co.,Ltd. starter 2025 💻
 <br />
   - IT - Software Developer. Schaffner Lam Co.,Ltd. 2023-2025 💻
-
-
+-------------------------------------------------------------------------
 *   🌍  I'm based in Chiang Mail, Thailand
 *   ✉️  You can contact me at [korawit.business@hotmail.com](mailto:korawit.business@hotmail.com)
 *   🧠  Now I'm using languages ASP.NET Core
