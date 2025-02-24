@@ -15,7 +15,7 @@ Working : <br />
 
 *   🌍  I'm based in Chiang Mail, Thailand
 *   ✉️  You can contact me at [korawit.business@hotmail.com](mailto:korawit.business@hotmail.com)
-*   🧠  Now I'm using languages ASP.NET Core
+*   🧠  Now I'm using languages C# and JS on ASP.NET Core
 
 ### Skills 
 <p align="left">
